@@ -17,4 +17,5 @@ There are 2 interpretations of probability :
   
   Will the ice cap melt by 2020 ?
   
+  #### Important :
   The Bayesian interpretation is used to solve Machine Learning problems.
