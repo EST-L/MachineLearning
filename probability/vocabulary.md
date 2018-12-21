@@ -9,9 +9,8 @@ p(A n B) = 0 <=> A and B are disjoint or mutually exclusive.
 p(A | B)
 
 #### 3. complement
-
-  _
-p(A) = 1 - p(A)
+  
+p(not A) = 1 - p(A)
 
 #### 4. intersection
 
