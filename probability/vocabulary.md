@@ -23,3 +23,9 @@ p(A u B)
 #### 6. dependent / independent
 
 If the occurence of A changes the probability of B, then A and B are dependent
+
+#### 7. uniform / degenerate distribution
+
+#### 8. pmf (probability mass function)
+
+The pmf is a function that gives the probability for every value taken by a discrete variable X
