@@ -1,2 +1,2 @@
-# ML101
-Machine learning
+
+# Machine Learning
