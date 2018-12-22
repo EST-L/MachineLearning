@@ -14,6 +14,8 @@ If A and B are exclusive, p(A n B) = 0
 
 #### Conditional
 
+p(A|B) = p(A n B) / p(B)
+
 #### Marginal distribution
 
 The marginal distribution expresses the sum of probabilities\
