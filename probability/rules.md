@@ -16,4 +16,8 @@ If A and B are exclusive, p(A n B) = 0
 
 #### Marginal distribution
 
+The marginal distribution expresses the sum of probabilities\
+of the intersection between an event A and discrete values of an event B.
+
+
 #### Bayes
